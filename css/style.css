@@ -10971,7 +10971,6 @@ h5,
     display: none;
   }
 }
-
 .owl-carousel {
   position: relative;
 }
@@ -11990,6 +11989,32 @@ textarea.form-control {
   padding: 7em 0;
   position: relative;
 }
+.flaticon-tabs {
+  background-image: url("../fonts/flaticon/icons/002-tabs.svg");
+  width: 90%;
+  height: 90%;
+  background-repeat: no-repeat;
+}
+.flaticon-emails {
+  background-image: url("../fonts/flaticon/icons/001-mail-inbox-app.svg");
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.flaticon-files {
+  background-image: url("../fonts/flaticon/icons/003-desktop.svg");
+  width: 80%;
+  height: 80%;
+  background-repeat: no-repeat;
+}
+.flaticon-bookmarks {
+  background-image: url("../fonts/flaticon/icons/004-favorite.svg");
+  width: 80%;
+  height: 80%;
+  background-repeat: no-repeat;
+}
+
 @media (max-width: 767.98px) {
   .ftco-section {
     padding: 6em 0;
