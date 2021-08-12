@@ -11165,6 +11165,11 @@ h5,
   font-weight: 800;
   color: #b1b493;
 }
+
+.one-forth.d-flex.align-items-center.ftco-animate.fadeInUp.ftco-animated span {
+  text-shadow: 0 0 13px #f0f6fb, 0 0 13px #eee6db, 0 0 13px #ebe7e1;
+}
+
 @media (max-width: 991.98px) {
   .owl-carousel.home-slider .slider-item .slider-text h1 {
     color: #fff;
@@ -11174,6 +11179,20 @@ h5,
 @media (max-width: 767.98px) {
   .owl-carousel.home-slider .slider-item .slider-text h1 {
     font-size: 40px;
+  }
+  .one-forth.d-flex.align-items-center.ftco-animate.fadeInUp.ftco-animated
+    .subheading {
+    text-shadow: 0 0 23px #acacae, 0 0 23px #939ba8, 0 0 23px #3a292c;
+    color: beige;
+  }
+  a.btn.btn-primary.btn-outline-primary {
+    color: beige !important;
+    border: 2px solid beige !important;
+  }
+  .one-forth.d-flex.align-items-center.ftco-animate.fadeInUp.ftco-animated
+    span {
+    text-shadow: 0 0 13px #acacae30, 0 0 13px #939ba830, 0 0 13px #787283;
+    color: beige;
   }
 }
 .owl-carousel.home-slider .slider-item .slider-text h2 {
@@ -11413,7 +11432,7 @@ h5,
   outline: none;
 }
 .btn.btn-primary {
-  background: #b1b493;
+  background: #b3b264;
   border: 1px solid #b1b493 !important;
   color: #fff !important;
 }
@@ -11460,6 +11479,7 @@ h5,
   border: 1px solid #000000;
   background: #fff !important;
   color: #fff;
+  color: #b3b264 !important;
 }
 .btn.btn-white.btn-outline-white {
   border: 1px solid #fff;
@@ -11652,7 +11672,7 @@ h5,
 }
 
 .progress-circle .h4 {
-  color: #b1b493;
+  color: #b3b264;
   font-size: 22px;
 }
 
@@ -11737,6 +11757,12 @@ h5,
   padding: 0;
   color: rgba(255, 255, 255, 0.9);
 }
+.ftco-hireme {
+  background: #5c3c33;
+  padding: 0;
+  color: rgba(255, 255, 255, 0.9);
+  background-image: linear-gradient(0deg, #42433733, transparent);
+}
 .ftco-hireme h2 {
   color: #fff;
   font-size: 34px;
@@ -11812,7 +11838,7 @@ h5,
 }
 .project:hover .overlay,
 .project:focus .overlay {
-  opacity: 0.4;
+  opacity: 0.65;
 }
 .project:hover .text,
 .project:focus .text {
@@ -11920,7 +11946,7 @@ h5,
   border-radius: 50%;
 }
 .testimony-wrap .fa {
-  color: #b1b493;
+  color: #b3b264;
   font-size: 30px;
   position: absolute;
   left: 20px;
@@ -11982,7 +12008,7 @@ textarea.form-control {
 }
 
 .bg-primary {
-  background: #b1b493 !important;
+  background: #b3b264 !important;
 }
 
 .ftco-section {
@@ -12258,7 +12284,7 @@ textarea.form-control {
   width: 60px;
   height: 60px;
   border-radius: 50%;
-  background: #b1b493;
+  background: #b3b264;
   position: relative;
 }
 .ftco-counter .icon span {
