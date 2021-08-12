@@ -11061,9 +11061,9 @@ h5,
 .owl-carousel.home-slider .slider-item .slider-text .one-third .overlay,
 .owl-carousel.home-slider .slider-item .slider-text .one-third .overlay-1 {
   position: absolute;
-  left: -7%;
+  left: -10%;
   background: #fff;
-  width: 150px;
+  width: 190px;
   height: 50%;
   opacity: 1;
   border-right: 10px solid rgba(0, 0, 0, 0.1);
